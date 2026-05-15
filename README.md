@@ -263,8 +263,12 @@ if __name__ == "__main__":
 
 <div align="center">
 
-**$ sudo akash --contact --now**
+<img src="https://img.shields.io/github/last-commit/akashka005/akashka005?style=for-the-badge&color=0d1117&labelColor=1c1917&label=LAST+EVOLUTION" />
 
-*"Code the future, or be a part of its history."*
+<br><br>
+
+**Excellence is not an act, but a habit.**
+
+*Refining the future through conscious engineering and sophisticated design.*
 
 </div>
