@@ -1,47 +1,52 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AKASH%20K%20A&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=THE%20FUTURE%20IS%20CODED&descAlignY=60&descSize=20" />
-</p>
-
-<p align="center">
-  <code>SYSTEM_STATUS: [████████████████████] 100% — ONLINE</code><br>
-  <img src="https://media.giphy.com/media/3o7TKMGpxvdfG4Y0da/giphy.gif" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=250&section=header&text=AKASH%20K%20A&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ARCHITECTING%20INTELLIGENCE%20%7C%20ENGINEERING%20EXCELLENCE&descAlignY=60&descSize=18" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%E3%80%8E+AKASH+K+A+%E3%80%8F;%3C+SYSTEM_OPERATOR+%2F%3E;%5B+GEN_AI+ARCHITECT+%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=Full+Stack+AI+Engineer;Generative+AI+Architect;Scalable+System+Designer;Algorithm+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 <div align="center">
 
-| 🆔 IDENTITY | 🛰️ FREQUENCY | 🛡️ SECURITY |
-| :--- | :--- | :--- |
-| **NAME:** AKASH K A | **UPLINK:** STABLE | **LEVEL:** ADMIN |
-| **ROLE:** AI ARCHITECT | **LATENCY:** 12ms | **STATUS:** ACTIVE |
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=akashka005&color=00D4FF&style=for-the-badge&label=VISITOR+COUNT" />
+<img src="https://komarev.com/ghpvc/?username=akashka005&color=0d1117&style=for-the-badge&label=PROFILE+ENGAGEMENT" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/akashka005?label=NETWORK&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<img src="https://img.shields.io/github/followers/akashka005?label=NETWORK&style=for-the-badge&color=0d1117&labelColor=1c1917" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/AVAILABILITY-OPEN-00D4FF?style=for-the-badge&logo=statuspage&logoColor=white" />
 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
-## 🌌 System Initialization: Akash_OS
+## 💠 The Digital Atelier
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>A Vision for the Future.</h3>
+      <p>
+        I am a <b>Computer Science Engineer</b> dedicated to building elegant solutions at the intersection of <b>Advanced Machine Learning</b> and <b>High-Performance Web Systems</b>. My approach is defined by precision, scalability, and a commitment to aesthetic functionality.
+      </p>
+      <p>
+        - ✨ <b>Focus:</b> LLM Orchestration, RAG Systems, & Cloud Architecture.<br>
+        - 🏛️ <b>Philosophy:</b> "Simplicity is the ultimate sophistication."<br>
+        - 🚀 <b>Mission:</b> Transforming complex problems into seamless digital experiences.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=akashka005&theme=transparent&hide_border=true&show_icons=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <table border="0">
   <tr>
