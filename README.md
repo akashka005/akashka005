@@ -98,7 +98,7 @@ if __name__ == "__main__":
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 ## 🛠️ The Forge (Tech Arsenal)
@@ -112,19 +112,19 @@ if __name__ == "__main__":
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 ## 🏆 Hall of Fame
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akashka005&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akashka005&theme=transparent&no-frame=true&no-bg=true&margin-w=6&row=1&column=6&title_color=00D4FF)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 ## 🌟 Masterpieces (Featured Projects)
@@ -136,23 +136,21 @@ if __name__ == "__main__":
 <td width="50%">
 
 ### 🌾 Krishi AI
-> **AI-Powered Agricultural Intelligence**
-- Context-aware farming guidance via **RAG**.
-- Semantic search using **FAISS** & **Groq**.
-- [View Code](https://github.com/akashka005)
+> **Agricultural Intelligence**
+- **RAG-powered** guidance for sustainable farming.
+- Semantic retrieval via **FAISS** & **Groq**.
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=krishi-ai&theme=radical&hide_border=true)](https://github.com/akashka005)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=krishi-ai&theme=transparent&hide_border=true&title_color=00D4FF)](https://github.com/akashka005)
 
 </td>
 <td width="50%">
 
 ### 🕵️ Fake Review Detector
-> **NLP-based Deceptive Classifier**
-- Engineered linguistic feature extraction.
-- End-to-end pipeline with high accuracy.
-- [View Code](https://github.com/akashka005)
+> **Linguistic NLP Analysis**
+- Engineered features for deceptive classification.
+- Real-time end-to-end ML pipeline.
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=fake-review-detection&theme=radical&hide_border=true)](https://github.com/akashka005)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=fake-review-detection&theme=transparent&hide_border=true&title_color=00D4FF)](https://github.com/akashka005)
 
 </td>
 </tr>
@@ -160,23 +158,21 @@ if __name__ == "__main__":
 <td width="50%">
 
 ### 💳 Fraud Detection
-> **Behavioral Pattern Classifier**
-- Ensemble learning for transaction risk.
-- Interactive Streamlit inference UI.
-- [View Code](https://github.com/akashka005)
+> **Behavioral Analysis**
+- Random Forest & XGBoost risk classification.
+- High-precision transaction inference.
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=fraud-detection&theme=radical&hide_border=true)](https://github.com/akashka005)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=fraud-detection&theme=transparent&hide_border=true&title_color=00D4FF)](https://github.com/akashka005)
 
 </td>
 <td width="50%">
 
 ### 🤖 CampusMate AI
-> **Full-Stack Campus Companion**
-- Multi-agent AI student productivity app.
-- Adaptive analytics & document Q&A.
-- [View Code](https://github.com/akashka005)
+> **AI Productivity Agent**
+- Multi-agent orchestration for student life.
+- Document Q&A & Adaptive Analytics.
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=campusmate&theme=radical&hide_border=true)](https://github.com/akashka005)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=campusmate&theme=transparent&hide_border=true&title_color=00D4FF)](https://github.com/akashka005)
 
 </td>
 </tr>
@@ -185,7 +181,7 @@ if __name__ == "__main__":
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 ## 📊 Analytics Command Center
@@ -194,21 +190,21 @@ if __name__ == "__main__":
 
 <table border="0">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=akashka005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180em"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashka005&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180em"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=akashka005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" height="180em"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashka005&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=00D4FF&text_color=FFFFFF" height="180em"/></td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=akashka005&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+<img src="https://streak-stats.demolab.com?user=akashka005&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" />
 
 <br>
 
-[![Akash's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashka005&bg_color=141321&color=00D4FF&line=00D4FF&point=ffd700&area=true&hide_border=true&custom_title=Activity%20Pulse)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akash's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashka005&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Activity%20Pulse&title_color=00D4FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -222,7 +218,7 @@ if __name__ == "__main__":
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 ## 🎯 Competitive Intelligence
@@ -232,7 +228,7 @@ if __name__ == "__main__":
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 ## 🗓️ Journey & Milestones
@@ -245,7 +241,7 @@ if __name__ == "__main__":
 | 2023 | 💻 **LeetCode 300+** | Mastered Data Structures & Algorithms with 300+ solves. |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
 </p>
 
 ## 📬 Terminal: Establish Connection
