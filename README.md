@@ -23,35 +23,67 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; About Me
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; System Log: Akash K A
+
+<table border="0">
+  <tr>
+    <td width="55%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=akashka005&theme=radical&show_owner=true" align="center" style="display:none;"/>
+      <h3>🚀 Booting Akash_OS.exe...</h3>
+      <p>
+        I am a <b>Computer Science Engineer</b> with a vision to merge <b>Artificial Intelligence</b> with real-world impact. Currently crafting intelligent systems that don't just process data, but understand context.
+      </p>
+      <p>
+        - 🌐 <b>Core Mission:</b> Architecting high-performance, AI-driven solutions.<br>
+        - 💡 <b>Philosophy:</b> "Code is poetry, but performance is truth."<br>
+        - 🔭 <b>Deep Dive:</b> Retrieval-Augmented Generation (RAG) & LLM Orchestration.
+      </p>
+      <details>
+        <summary><b>🛠️ View System Specifications (Skills)</b></summary>
+        <br>
+        <code>Backend.py   [██████████░░] 85%</code><br>
+        <code>Frontend.js   [████████░░░░] 70%</code><br>
+        <code>AI_ML.model   [█████████░░░] 75%</code><br>
+        <code>Problem_Solving [███████████░] 95%</code>
+      </details>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzB4bmN4bnF4bmN4bnF4bmN4bnF4bmN4bnF4bmN4bnF4bmN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ```python
-class AkashKA:
-    def __init__(self):
-        self.name        = "Akash K A"
-        self.alias       = "akashka005"
-        self.university  = "Lovely Professional University"
-        self.degree      = "B.Tech — Computer Science Engineering"
-        self.location    = "India 🇮🇳"
-        self.email       = "akashka688@gmail.com"
+import universe
+from akash import Intelligence, Creativity, Persistence
 
-    @property
-    def currently(self):
+class AkashKA(Developer):
+    def __init__(self):
+        self.alias     = "akashka005"
+        self.traits    = [Intelligence.HIGH, Creativity.MAX, Persistence.INFINITE]
+        self.stack     = ["Python", "FastAPI", "React", "PyTorch"]
+        self.objective = "Solve the unsolvable."
+
+    def get_status(self):
         return {
-            "🔭 Building"  : "Krishi AI — RAG-powered Agricultural Assistant",
-            "🌱 Learning"  : "Cloud Architecture & Scalable Backend Systems",
-            "🏆 Achieved"  : "Top 10 @ Code-A-Haunt | Adobe India Hackathon Round 2",
-            "⚡ Fun Fact"  : "300+ LeetCode problems solved & counting...",
-            "💬 Ask me about": ["AI/ML", "FastAPI", "RAG Systems", "Full Stack Dev"],
+            "Processing" : "Krishi AI — AI for Indian Farmers 🌾",
+            "Learning"   : "Scalable Distributed Systems & Cloud-Native Ops",
+            "Legacy"     : "300+ LeetCode milestones & Hackathon Podiums 🏆"
         }
 
-    def life_motto(self):
-        return "Build things that matter. Break things to learn."
+    def live(self):
+        while True:
+            self.think(deeply=True)
+            self.code(passionately=True)
+            if self.is_coffee_empty():
+                self.refill(Coffee.DARK_ROAST)
 
-me = AkashKA()
-print(me.life_motto())
-# → Build things that matter. Break things to learn.
+# Starting the main execution thread...
+akash = AkashKA()
+print(akash.get_status())
 ```
+
 
 ---
 
