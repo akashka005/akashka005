@@ -4,18 +4,28 @@
 </p>
 
 <p align="center">
-  <img src="./signature.png" width="400" />
+  <code>SYSTEM_STATUS: [████████████████████] 100% — ONLINE</code><br>
+  <img src="https://media.giphy.com/media/3o7TKMGpxvdfG4Y0da/giphy.gif" width="600" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=%F0%9F%A4%96+Architecting+Intelligence;%F0%9F%9A%80+Engineering+Scalable+Solutions;%F0%9F%A7%A0+300%2B+LeetCode+Problems+Solved;%F0%9F%8C%BE+Empowering+Farming+with+AI;%E2%9A%A1+Top+10+Hackathon+Finalist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%E3%80%8E+AKASH+K+A+%E3%80%8F;%3C+SYSTEM_OPERATOR+%2F%3E;%5B+GEN_AI+ARCHITECT+%5D)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
+
+<div align="center">
+
+| 🆔 IDENTITY | 🛰️ FREQUENCY | 🛡️ SECURITY |
+| :--- | :--- | :--- |
+| **NAME:** AKASH K A | **UPLINK:** STABLE | **LEVEL:** ADMIN |
+| **ROLE:** AI ARCHITECT | **LATENCY:** 12ms | **STATUS:** ACTIVE |
+
+</div>
 
 <div align="center">
 
