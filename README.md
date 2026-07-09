@@ -1,274 +1,108 @@
+<h1 align="center">Hi 👋, I'm Akash K A</h1>
+<h3 align="center">Final-year B.Tech CSE (AI/ML) student building production-grade AI systems</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=250&section=header&text=AKASH%20K%20A&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ARCHITECTING%20INTELLIGENCE%20%7C%20ENGINEERING%20EXCELLENCE&descAlignY=60&descSize=18" />
+  <a href="https://linkedin.com/in/akashka005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/akashka005" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:akashka688@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<div align="center">
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=Full+Stack+AI+Engineer;Generative+AI+Architect;Scalable+System+Designer;Algorithm+Specialist)](https://git.io/typing-svg)
+### 🚀 About Me
 
-</div>
+- 🎓 B.Tech CSE (AI/ML Specialisation) @ Lovely Professional University, Punjab, India
+- 🧠 I build systems across **NLP, RAG pipelines, fraud detection, and multi-agent architectures**
+- 🔭 Currently architecting **MNEMO**, a multi-agent "second brain" with a custom Cognitive Knowledge Evolution (CKE) mechanism
+- 🌱 Deepening my skills in **LangChain, multi-agent orchestration, and vector/graph databases**
+- 💬 Ask me about **RAG systems, ML pipelines, or backend architecture (FastAPI/Flask)**
+- ⚡ Fun fact: I'm consistently grinding LeetCode, aiming to cross 300+ solved problems
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
+---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-<img src="https://komarev.com/ghpvc/?username=akashka005&color=0d1117&style=for-the-badge&label=PROFILE+ENGAGEMENT" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/akashka005?label=NETWORK&style=for-the-badge&color=0d1117&labelColor=1c1917" />
-&nbsp;
-<img src="https://img.shields.io/badge/AVAILABILITY-OPEN-00D4FF?style=for-the-badge&logo=statuspage&logoColor=white" />
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-</div>
+**ML / AI**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?style=flat-square)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
+**Backend & Frontend**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## 💠 The Digital Atelier
+**Data & Tools**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>A Vision for the Future.</h3>
-      <p>
-        I am a <b>Computer Science Engineer</b> dedicated to building elegant solutions at the intersection of <b>Advanced Machine Learning</b> and <b>High-Performance Web Systems</b>. My approach is defined by precision, scalability, and a commitment to aesthetic functionality.
-      </p>
-      <p>
-        - ✨ <b>Focus:</b> LLM Orchestration, RAG Systems, & Cloud Architecture.<br>
-        - 🏛️ <b>Philosophy:</b> "Simplicity is the ultimate sophistication."<br>
-        - 🚀 <b>Mission:</b> Transforming complex problems into seamless digital experiences.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=akashka005&theme=transparent&hide_border=true&show_icons=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" width="100%" />
-    </td>
-  </tr>
-</table>
+---
 
-<table border="0">
-  <tr>
-    <td width="55%">
-      <h3>🚀 Booting Sequence Complete...</h3>
-      <p>
-        I am a <b>Computer Science Engineer</b> specializing in the intersection of <b>Generative AI</b> and <b>Full-Stack Architecture</b>. I don't just build applications; I engineer experiences that leverage context and data to solve human problems.
-      </p>
-      <p>
-        - 🌐 <b>Core Stack:</b> Python, FastAPI, React, PyTorch.<br>
-        - 💡 <b>Mindset:</b> <i>"Don't optimize for lines of code, optimize for clarity and speed."</i><br>
-        - 🔭 <b>Current Research:</b> Distributed Vector Databases and RAG Optimizations.
-      </p>
-      <details>
-        <summary><b>📂 Expand System Specifications (Neural Map)</b></summary>
-        <br>
-        <code>Core.Backend    [██████████░░] 85%</code><br>
-        <code>Core.Frontend   [████████░░░░] 70%</code><br>
-        <code>Neural.Models   [█████████░░░] 75%</code><br>
-        <code>Logic.Algorithmic [███████████░] 95%</code><br>
-        <code>Cloud.Infrastructure [███████░░░░░] 60%</code>
-      </details>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzB4bmN4bnF4bmN4bnF4bnF4bnF4bnF4bnF4bnF4bnF4bnF4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+### 🔥 Featured Projects
 
-```python
-import intelligence
-from developer import Akash
+#### 🧠 [MNEMO — Multi-Agent AI Second Brain](https://github.com/akashka005)
+`Python` `LangChain` `FAISS` `Graph DB` `Multi-Agent Architecture` `RAG`
+- Architecting a multi-agent knowledge system with a novel **Cognitive Knowledge Evolution (CKE)** mechanism for dynamic knowledge graph restructuring.
+- Designed 4 specialised agents — ingestion, retrieval, reasoning, synthesis — coordinated via a custom orchestration layer.
+- Built a persistent memory backbone combining vector databases and graph structures for cross-session semantic recall.
 
-class Future(Developer):
-    def __init__(self):
-        self.name = "Akash K A"
-        self.focus = ["AI/ML", "Backend Engineering", "Scalable Systems"]
-        self.motivation = "Build what matters."
+#### 🌾 [Krishi AI — RAG-Powered Agricultural Intelligence Platform](https://github.com/akashka005)
+`Python` `FastAPI` `FAISS` `HuggingFace` `Groq API` `React` `NLP`
+- Multilingual agricultural AI assistant using RAG over a large document corpus for accurate, context-aware farming guidance.
+- Semantic retrieval pipeline with FAISS vector indexing; Groq-served LLMs for multilingual responses.
+- Scalable FastAPI backend with a React frontend supporting concurrent multi-user sessions.
 
-    def execute(self):
-        while self.is_alive():
-            self.learn()
-            self.build()
-            self.optimize()
+#### 🛡️ [Fraud Detection in Financial Transactions](https://github.com/akashka005)
+`Python` `XGBoost` `Scikit-learn` `Flask` `Streamlit`
+- Ensemble fraud detection system (XGBoost + Random Forest + Logistic Regression) on a heavily imbalanced dataset.
+- Applied SMOTE oversampling and behavioural feature engineering to significantly improve minority-class recall.
+- Real-time classification pipeline with a Flask API and Streamlit risk-monitoring dashboard.
 
-if __name__ == "__main__":
-    akash = Future()
-    akash.execute() # Status: 🟢 OPERATIONAL
-```
+#### 🔍 [Fake Review Detection System](https://github.com/akashka005)
+`Python` `NLP` `Scikit-learn` `Flask` `React`
+- AI-powered system to detect fake/deceptive product reviews using NLP and anomaly detection.
+- Linguistic feature extraction covering sentiment patterns, review-length anomalies, and semantic inconsistencies.
+- End-to-end deployed web app for real-time prediction.
+
+---
+
+### 🏆 Achievements
+
+- 🥈 **Round 2 Qualifier** — Adobe India Hackathon (Aug 2025)
+- 🎖️ **1st Place** — Communication Skills Workshop, 94% score (Mar 2025)
+- 🔟 **Top 10 Finalist** — Code-A-Haunt Hackathon (Jan 2024)
+- 💻 Active LeetCode problem solver — focus on medium/hard DSA & system design
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
-
-## 🛠️ The Forge (Tech Arsenal)
-
-<div align="center">
-
-| 🧠 Languages | 🎨 Frontend | ⚙️ Backend | 🤖 AI / ML | 🛠️ DevOps |
-| :--- | :--- | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,bash" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" /> | <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,postgres,mongodb" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode" /> |
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
-
-## 🏆 Hall of Fame
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akashka005&theme=transparent&no-frame=true&no-bg=true&margin-w=6&row=1&column=6&title_color=00D4FF)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
-
-## 🌟 Masterpieces (Featured Projects)
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td width="50%">
-
-### 🌾 Krishi AI
-> **Agricultural Intelligence**
-- **RAG-powered** guidance for sustainable farming.
-- Semantic retrieval via **FAISS** & **Groq**.
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=krishi-ai&theme=transparent&hide_border=true&title_color=00D4FF)](https://github.com/akashka005)
-
-</td>
-<td width="50%">
-
-### 🕵️ Fake Review Detector
-> **Linguistic NLP Analysis**
-- Engineered features for deceptive classification.
-- Real-time end-to-end ML pipeline.
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=fake-review-detection&theme=transparent&hide_border=true&title_color=00D4FF)](https://github.com/akashka005)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💳 Fraud Detection
-> **Behavioral Analysis**
-- Random Forest & XGBoost risk classification.
-- High-precision transaction inference.
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=fraud-detection&theme=transparent&hide_border=true&title_color=00D4FF)](https://github.com/akashka005)
-
-</td>
-<td width="50%">
-
-### 🤖 CampusMate AI
-> **AI Productivity Agent**
-- Multi-agent orchestration for student life.
-- Document Q&A & Adaptive Analytics.
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=campusmate&theme=transparent&hide_border=true&title_color=00D4FF)](https://github.com/akashka005)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
-
-## 📊 Analytics Command Center
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=akashka005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" height="180em"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashka005&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=00D4FF&text_color=FFFFFF" height="180em"/></td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=akashka005&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF" />
-
-<br>
-
-[![Akash's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashka005&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Activity%20Pulse&title_color=00D4FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashka005/akashka005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashka005/akashka005/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/akashka005/akashka005/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
-
-## 🎯 Competitive Intelligence
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/akash05?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
-
-## 🗓️ Journey & Milestones
-
-| Year | Milestone | Description |
-| :--- | :--- | :--- |
-| 2026 | 🚀 **CampusMate AI** | Launched full-stack AI platform for student productivity. |
-| 2025 | 🌾 **Krishi AI** | Developed RAG system for context-aware agricultural support. |
-| 2024 | 🏆 **Hackathon Finalist** | Top 10 @ Code-A-Haunt & Adobe India Hackathon Round 2. |
-| 2023 | 💻 **LeetCode 300+** | Mastered Data Structures & Algorithms with 300+ solves. |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/carbon.png" width="100%" />
-</p>
-
-## 📬 Terminal: Establish Connection
-
-<p align="center">
-  <a href="https://linkedin.com/in/akash05" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akashka688@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/akash05" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/akashka005" target="_blank"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashka005&show_icons=true&theme=radical" alt="Akash's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashka005&theme=radical" alt="Akash's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashka005&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-</p>
+---
 
-<div align="center">
-
-<img src="https://img.shields.io/github/last-commit/akashka005/akashka005?style=for-the-badge&color=0d1117&labelColor=1c1917&label=LAST+EVOLUTION" />
-
-<br><br>
-
-**Excellence is not an act, but a habit.**
-
-*Refining the future through conscious engineering and sophisticated design.*
-
-</div>
+<p align="center">📫 Reach me at <b>akashka688@gmail.com</b></p>
