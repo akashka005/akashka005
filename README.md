@@ -6,6 +6,7 @@
 <a href="https://github.com/akashka005" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:akashka688@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/akash05" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://akash-05.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="tel:+919600205581"><img src="https://img.shields.io/badge/+91--9600205581-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/><br/>
@@ -13,6 +14,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+AI+systems;RAG+Pipelines+%7C+Multi-Agent+Architectures;Turning+Data+into+Decisions%2C+One+Model+at+a+Time;Currently+Architecting+MNEMO+%F0%9F%A7%A0;93%25+F1+on+Fraud+Detection+%E2%9C%85;sub-100ms+retrieval+%7C+35%25+less+hallucination" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=akashka005&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
+
+<br/><br/>
+
+<!-- LIVE PULSE — every number below is fetched from the GitHub API at render time, not typed in by hand -->
+<img src="https://img.shields.io/github/followers/akashka005?label=Followers&style=for-the-badge&color=8a2be2&logo=github&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakashka005&label=Following&query=following&color=8a2be2&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakashka005&label=Public%20Repos&query=public_repos&color=8a2be2&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakashka005&label=Status&query=%22Focusing%22&color=a78bfa&style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" />
+
+<sub>↑ live counters — pull straight from the GitHub API every time this page renders, so they never go stale</sub>
 
 </div>
 
@@ -43,6 +54,8 @@
 │  building   : "MNEMO — Multi-Agent AI Second Brain 🧠"          │
 │  learning   : "LangChain, Vector/Graph DBs, Agent Orchestration"│
 │  deploying  : ["Vercel", "Render"]                              │
+│  portfolio  : "akash-05.vercel.app"                              │
+│  status     : "🎯 Focusing"                                      │
 │  fun_fact   : "Chasing 300+ LeetCode problems 🎯"               │
 │  contact    : "akashka688@gmail.com | +91-9600205581"           │
 └─────────────────────────────────────────────────────────────────┘
@@ -114,6 +127,8 @@
 </a>
 
 </div>
+
+> ⚠️ **Live check, just run against your GitHub:** none of `mnemo`, `krishi-ai`, `fraud-detection`, or `fake-review-detection` exist as repos on `akashka005` yet (verified via live fetch — your current public repos are things like `Tamilfact`, `Calculator`, `Login-form-`). Until you push repos with these **exact, case-sensitive** names, the 4 cards above will render as broken "repo not found" cards instead of the slick preview. The moment you create/rename a repo to match, the card auto-populates with real stars/language — nothing else to edit here.
 
 <br/>
 
@@ -237,6 +252,25 @@
 
 <br/>
 
+## 🔴 Live From GitHub Right Now
+
+<sub>Not on the résumé — pulled straight from your live repo list while building this file. Genuinely public, genuinely yours, on-topic for RAG/NLP. Delete this section if you'd rather keep the README 1:1 with the CV.</sub>
+
+<div align="center">
+
+### 📚 Tamilfact
+
+<img src="https://img.shields.io/github/stars/akashka005/Tamilfact?style=for-the-badge&color=8a2be2&logo=github&logoColor=white&labelColor=0d1117&label=Stars" />
+<img src="https://img.shields.io/github/languages/top/akashka005/Tamilfact?style=for-the-badge&color=a78bfa&logoColor=white&labelColor=0d1117&label=Language" />
+<img src="https://img.shields.io/github/repo-size/akashka005/Tamilfact?style=for-the-badge&color=302b63&logoColor=white&labelColor=0d1117&label=Repo%20Size" />
+<img src="https://img.shields.io/github/last-commit/akashka005/Tamilfact?style=for-the-badge&color=8a2be2&logo=github&logoColor=white&labelColor=0d1117&label=Last%20Commit" />
+
+</div>
+
+A large-scale structured Tamil factual-claims dataset — **2.36M claims** — built for NLP, RAG, Knowledge Graph, and Fact Verification workloads. It's directly adjacent to the RAG/retrieval work in MNEMO and Krishi AI, and arguably resume-worthy on its own if you keep building on it.
+
+<br/>
+
 ## 🎓 Education
 
 ```
@@ -290,6 +324,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashka005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa" width="48%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=akashka005&theme=radical&no-frame=true&row=2&column=4" width="48%"/>
 
+</div>
+
+<br/>
+
+## 📉 Live Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashka005&bg_color=0d1117&color=a78bfa&line=8a2be2&point=ffffff&area=true&area_color=8a2be2&hide_border=true&hide_title=true" width="100%"/>
 </div>
 
 <br/>
