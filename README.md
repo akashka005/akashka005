@@ -124,7 +124,6 @@
 
 ## 🚀 Flagship Projects
 
-> ✅ **Live-verified against your GitHub** — every card below points at a repo that actually exists, described from that repo's *actual* README (not résumé copy). Stars, language, and last-commit badges refresh automatically.
 
 <div align="center">
 
