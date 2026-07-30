@@ -114,14 +114,6 @@
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║   📡  LIVE REPO SCAN — 37 repositories on github.com/akashka005       ║
-║       This section is rebuilt from real READMEs, not the résumé.      ║
-║       Verified live on Jul 30, 2026.                                  ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
 ## 🚀 Flagship Projects
 
 
@@ -314,8 +306,6 @@
 <br/>
 
 ## ⚡ More From The Lab
-
-<sub>Not on the résumé — pulled live from `github.com/akashka005?tab=repositories`. Real repos, real READMEs, badges refresh automatically.</sub>
 
 <br/>
 
