@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+AI+systems;RAG+Pipelines+%7C+Multi-Agent+Architectures;Turning+Data+into+Decisions%2C+One+Model+at+a+Time;Currently+Architecting+MNEMO+%F0%9F%A7%A0;93%25+F1+on+Fraud+Detection+%E2%9C%85;sub-100ms+retrieval+%7C+35%25+less+hallucination" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+production-grade+AI+systems;5+flagship+builds%2C+all+live-verified+on+GitHub;RAG+%2B+Graph+DBs+%2B+Reinforcement+Learning;Currently+Architecting+MNEMO+%F0%9F%A7%A0+(Neo4j+Graph+RAG);Cortex%3A+Generative+%2B+SL+%2B+UL+%2B+RL+in+one+pipeline;Every+stat+on+this+page+is+fetched%2C+not+typed" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=akashka005&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
 
@@ -49,14 +49,14 @@
 │  role       : "Final-year B.Tech CSE (AI/ML) Student"          │
 │  university : "Lovely Professional University, Punjab, India"   │
 │  cgpa       : 6.9  |  graduation: May 2027                      │
-│  focus      : ["RAG Systems", "Multi-Agent AI", "NLP",         │
-│                "Fraud Detection", "Anomaly Detection"]           │
-│  building   : "MNEMO — Multi-Agent AI Second Brain 🧠"          │
+│  focus      : ["RAG Systems", "Graph AI", "Reinforcement       │
+│                Learning", "Multi-Agent AI", "Anomaly Detection"]│
+│  building   : "MNEMO — Cognitive Knowledge Engine (Neo4j) 🧠"   │
 │  learning   : "LangChain, Vector/Graph DBs, Agent Orchestration"│
-│  deploying  : ["Vercel", "Render"]                              │
+│  deploying  : ["Vercel", "Render", "Docker", "GitHub Actions"]  │
 │  portfolio  : "akash-05.vercel.app"                              │
 │  status     : "🎯 Focusing"                                      │
-│  fun_fact   : "Chasing 300+ LeetCode problems 🎯"               │
+│  fun_fact   : "Chasing 300+ LeetCode/NeetCode problems 🎯"      │
 │  contact    : "akashka688@gmail.com | +91-9600205581"           │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,react,tailwind,flask,django,fastapi,git,github,docker,vercel,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,react,nextjs,threejs,tailwind,flask,django,fastapi,git,github,docker,vercel,vscode&theme=dark" />
 
 <br/><br/>
 
@@ -76,198 +76,295 @@
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8A2BE2?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F54033?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ```
 ╔══════════════╦═══════════════════════════════════════════════════════╗
-║  LANGUAGES   ║  Python · C++ · C · Java · JavaScript · HTML         ║
+║  LANGUAGES   ║  Python · TypeScript · JavaScript · C++ · C · Java    ║
 ╠══════════════╬═══════════════════════════════════════════════════════╣
-║  ML / AI     ║  Scikit-learn · XGBoost · TF · PyTorch · HuggingFace ║
-║              ║  LangChain · FAISS · RAG · Groq API                  ║
+║  ML / AI     ║  PyTorch · TF · Scikit-learn · XGBoost · HuggingFace  ║
+║              ║  LangChain · FAISS · RAG · Groq · Gemini · RL (Q-learn)║
 ╠══════════════╬═══════════════════════════════════════════════════════╣
-║  BACKEND     ║  FastAPI · Flask · Django · REST APIs                 ║
+║  DATA/GRAPH  ║  Neo4j · ChromaDB · pgvector · PostgreSQL · SQLite    ║
 ╠══════════════╬═══════════════════════════════════════════════════════╣
-║  FRONTEND    ║  React · Tailwind CSS                                 ║
+║  BACKEND     ║  FastAPI · Flask · Django · Next.js 15 · REST APIs    ║
 ╠══════════════╬═══════════════════════════════════════════════════════╣
-║  DATA        ║  Pandas · NumPy · Matplotlib · Seaborn               ║
+║  FRONTEND    ║  React 19 · Three.js · Tailwind · Framer Motion       ║
 ╠══════════════╬═══════════════════════════════════════════════════════╣
-║  TOOLS       ║  Git · GitHub · Docker · Render · Vercel · Streamlit  ║
+║  DEVOPS      ║  Docker · GitHub Actions CI/CD · Turborepo · Prisma   ║
 ╠══════════════╬═══════════════════════════════════════════════════════╣
-║  CORE AREAS  ║  ML · NLP · Multi-Agent AI · Anomaly Detection       ║
-║              ║  Data Visualisation · System Design                   ║
+║  CORE AREAS  ║  Multi-Agent AI · Graph RAG · Anomaly Detection       ║
+║              ║  Generative AI (GANs) · System Design                 ║
 ╚══════════════╩═══════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║   📡  LIVE REPO SCAN — 37 repositories on github.com/akashka005       ║
+║       This section is rebuilt from real READMEs, not the résumé.      ║
+║       Verified live on Jul 30, 2026.                                  ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
 ## 🚀 Flagship Projects
 
+> ✅ **Live-verified against your GitHub** — every card below points at a repo that actually exists, described from that repo's *actual* README (not résumé copy). Stars, language, and last-commit badges refresh automatically.
+
 <div align="center">
 
-<a href="https://github.com/akashka005/mnemo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=mnemo&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
+<a href="https://github.com/akashka005/MNEMO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=MNEMO&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
 </a>
-<a href="https://github.com/akashka005/krishi-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=krishi-ai&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
+<a href="https://github.com/akashka005/Krishi-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=Krishi-AI&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
 </a>
 
-<a href="https://github.com/akashka005/fraud-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=fraud-detection&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
+<a href="https://github.com/akashka005/Fraud-detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=Fraud-detection&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
 </a>
-<a href="https://github.com/akashka005/fake-review-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=fake-review-detection&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
+<a href="https://github.com/akashka005/Sentinel-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=Sentinel-AI&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
+</a>
+
+<a href="https://github.com/akashka005/CORTEX-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashka005&repo=CORTEX-AI&theme=radical&title_color=a78bfa&icon_color=a78bfa&border_color=302b63" width="47%"/>
 </a>
 
 </div>
 
-> ⚠️ **Live check, just run against your GitHub:** none of `mnemo`, `krishi-ai`, `fraud-detection`, or `fake-review-detection` exist as repos on `akashka005` yet (verified via live fetch — your current public repos are things like `Tamilfact`, `Calculator`, `Login-form-`). Until you push repos with these **exact, case-sensitive** names, the 4 cards above will render as broken "repo not found" cards instead of the slick preview. The moment you create/rename a repo to match, the card auto-populates with real stars/language — nothing else to edit here.
-
 <br/>
 
-<details>
-<summary><b>🧠 MNEMO — Multi-Agent AI Second Brain &nbsp;[2025 – Present]</b></summary>
-<br/>
-
-```
-  ┌──────────────────────────────────────────────────────────────┐
-  │                    MNEMO ARCHITECTURE                        │
-  │                                                              │
-  │   USER INPUT                                                 │
-  │       │                                                      │
-  │       ▼                                                      │
-  │  ┌─────────────────────────────────────────────────────┐     │
-  │  │            ORCHESTRATION LAYER  (custom)            │     │
-  │  └──────┬───────────┬───────────┬────────────┬─────────┘     │
-  │         │           │           │            │                │
-  │         ▼           ▼           ▼            ▼                │
-  │   ┌──────────┐ ┌─────────┐ ┌──────────┐ ┌──────────┐        │
-  │   │INGESTION │ │RETRIEVAL│ │REASONING │ │SYNTHESIS │        │
-  │   │  AGENT   │ │  AGENT  │ │  AGENT   │ │  AGENT   │        │
-  │   └────┬─────┘ └────┬────┘ └─────┬────┘ └────┬─────┘        │
-  │        │            │            │            │               │
-  │        └────────────┴─────┬──────┴────────────┘               │
-  │                           ▼                                   │
-  │             ┌─────────────────────────┐                       │
-  │             │  PERSISTENT MEMORY       │                       │
-  │             │  Vector DB + Graph DB    │  ← CKE Mechanism     │
-  │             │  (cross-session recall)  │                       │
-  │             └─────────────────────────┘                       │
-  └──────────────────────────────────────────────────────────────┘
-```
-
-**Stack:** `Python` · `LangChain` · `FAISS` · `Graph DB` · `Multi-Agent Architecture` · `RAG` · `HuggingFace`
-
-- Architecting a multi-agent knowledge system with a novel **Cognitive Knowledge Evolution (CKE)** mechanism enabling dynamic knowledge graph restructuring based on user interaction patterns — targeting **sub-200ms retrieval latency** at scale.
-- Designed **4 specialised agents** (ingestion, retrieval, reasoning, synthesis) coordinated via a custom orchestration layer, reducing context-retrieval steps by an estimated **~40%** vs single-agent RAG baselines.
-- Built a persistent memory backbone using vector + graph structures for cross-session semantic recall, outperforming standard RAG on long-horizon reasoning tasks.
-
-</details>
-
-<details>
-<summary><b>🌾 Krishi AI — RAG-Powered Agricultural Intelligence Platform &nbsp;[May 2026]</b></summary>
+<details open>
+<summary><b>🧠 MNEMO — Cognitive Knowledge Engine &nbsp;[2025 – Present]</b></summary>
 <br/>
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
-  │                  KRISHI AI — RAG PIPELINE                    │
-  │                                                              │
-  │  React Frontend                                              │
-  │       │  REST API calls                                      │
-  │       ▼                                                      │
-  │  FastAPI Backend                                             │
-  │       │                                                      │
-  │       ├──► FAISS Vector Index ──► 10,000+ doc corpus        │
-  │       │         (sub-100ms query)                            │
-  │       │                                                      │
-  │       └──► Groq-served LLM ──► Multilingual Output          │
-  │                (3+ languages)    (~35% less hallucination)   │
+  │                    MNEMO — REAL ARCHITECTURE                 │
+  │                                                                │
+  │  INGESTION CENTER              RESEARCH COPILOT               │
+  │  (text / URL / arXiv)          (finds Bridges +                │
+  │   live MERGE / EXTEND /         Contradictions,                │
+  │   CONFLICT streaming)           proposes hypotheses)           │
+  │        │                              ▲                        │
+  │        ▼                              │                        │
+  │  ┌──────────────────────────────────────────────────┐          │
+  │  │            NEO4J KNOWLEDGE GRAPH                  │          │
+  │  │   nodes = concepts, color-coded by AI confidence  │          │
+  │  │        (green = high, yellow = med, red = low)    │          │
+  │  └──────────────────────────────────────────────────┘          │
+  │        │                              ▲                        │
+  │        ▼                              │                        │
+  │  KNOWLEDGE UNIVERSE              QUERY ENGINE                  │
+  │  (3D force-graph explorer,       (Graph RAG — answers          │
+  │   drag/zoom/search)               grounded + cited)            │
   └──────────────────────────────────────────────────────────────┘
 ```
 
-**Stack:** `Python` · `FastAPI` · `FAISS` · `HuggingFace` · `Groq API` · `React` · `NLP` · `RAG`
+**Real stack:** `React` · `Vite` · `Framer Motion` · `Force-Graph` (frontend) — `Python` · `FastAPI` · `Uvicorn` · `AnyIO` (backend) — `Neo4j` (graph DB) — `HuggingFace Transformers` · `SentenceTransformers` · `Local LLMs` (AI/NLP)
 
-- Built a multilingual agricultural AI assistant using RAG over a **10,000+ document corpus**, reducing hallucination rate by **~35%** vs baseline LLM-only responses on domain-specific queries.
-- Engineered semantic retrieval pipeline with FAISS vector indexing achieving **sub-100ms query response**; integrated Groq-served LLMs for multilingual output across **3+ languages**.
-- Designed scalable FastAPI backend with REST API layer consumed by a React frontend, supporting concurrent multi-user sessions without degradation.
+- **Ingestion Center** — feed it raw notes, a URL, or an arXiv link; watch it live-stream `MERGE` / `EXTEND` / `CONFLICT` operations as it extracts entities and relationships.
+- **Knowledge Universe** — an interactive 3D graph of everything it's learned, with nodes color-coded by AI confidence and instant search-to-camera-snap.
+- **Query Engine** — true Graph RAG: answers are generated only from what's in the graph, with exact source citations back to the original text.
+- **Research Copilot** — autonomously scans the graph for contradictions and cross-domain "Bridges," then proposes new hypotheses for you to accept or reject.
 
 </details>
 
 <details>
-<summary><b>🛡️ Fraud Detection in Financial Transactions &nbsp;[Sep 2025]</b></summary>
+<summary><b>🌾 Krishi AI — "Earth & Silicon" Agricultural Platform &nbsp;[May 2026]</b></summary>
 <br/>
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
-  │              FRAUD DETECTION — ENSEMBLE SYSTEM               │
-  │                                                              │
-  │  Raw Transactions                                            │
-  │       │                                                      │
-  │       ▼                                                      │
-  │  Feature Engineering (velocity + behavioural features)       │
-  │       │                                                      │
-  │       ▼                                                      │
-  │  SMOTE Oversampling  (fraud rate <1% → balanced)             │
-  │       │                                                      │
-  │       ▼                                                      │
-  │  ┌───────────┐  ┌──────────────┐  ┌──────────────────────┐  │
-  │  │ XGBoost   │  │Random Forest │  │ Logistic Regression  │  │
-  │  └─────┬─────┘  └──────┬───────┘  └──────────┬───────────┘  │
-  │        └───────────────┴──────────────────────┘              │
-  │                         │  Ensemble Vote                      │
-  │                         ▼                                    │
-  │              93% F1  |  Recall: 62% → 89%                    │
-  │                         │                                    │
-  │                Flask API + Streamlit Dashboard               │
-  │               (1,000+ transactions/min load test)            │
+  │            KRISHI AI — "EARTH & SILICON" STACK                │
+  │                                                                │
+  │  React + Vite + Tailwind v4 + Framer Motion                  │
+  │  (glassmorphic, wind-reactive UI)                              │
+  │       │                                                       │
+  │       ├──► Agricultural HUD → live weather via geolocation    │
+  │       ├──► Neural Engine → voice-query HUD + leaf-scan flow   │
+  │       │      + irrigation / rotation / soil suggestions       │
+  │       ▼                                                       │
+  │  FastAPI + SQLAlchemy + SQLite                                 │
+  │       │                                                       │
+  │       └──► Groq Cloud (Llama 3 / Mixtral) — chat + insights    │
   └──────────────────────────────────────────────────────────────┘
 ```
 
-**Stack:** `Python` · `XGBoost` · `Scikit-learn` · `Flask` · `Streamlit` · `Logistic Regression` · `Random Forest`
+**Real stack:** `React` · `Vite` · `Tailwind CSS v4` · `Framer Motion` · `Lucide Icons` (frontend) — `FastAPI` · `SQLAlchemy` · `SQLite` (backend) — `Groq Cloud API` (Llama 3 / Mixtral)
 
-- Trained an ensemble fraud detection system achieving **93% F1-score** on a heavily imbalanced dataset (fraud rate <1%).
-- Applied SMOTE oversampling and velocity/behavioural feature engineering, improving minority-class recall from **~62% → ~89%** — critical for real-world fraud use cases.
-- Deployed a real-time classification pipeline with Flask API and Streamlit risk-monitoring dashboard, processing **1,000+ transactions/minute** in load tests.
+- **Agricultural HUD** — real-time weather telemetry (temp/humidity/wind/rain) from browser geolocation, with background animations that react to local wind speed.
+- **Neural Engine** — a voice-waveform HUD for spoken farming queries, an AI-vision leaf-scan flow for disease flags, and context-aware irrigation/crop-rotation/soil advice.
+- **"Earth & Silicon" design system** — organic glassmorphism fused with high-tech neural visuals, down to a pulsing animated favicon.
 
 </details>
 
 <details>
-<summary><b>🔍 Fake Review Detection System</b></summary>
+<summary><b>🛡️ Fraud Detection — Ensemble Model + Production API &nbsp;[Sep 2025]</b></summary>
 <br/>
 
-**Stack:** `Python` · `NLP` · `Scikit-learn` · `Flask` · `React`
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │           FRAUD DETECTION — ENSEMBLE + PROD API                │
+  │                                                                │
+  │  Raw Transactions → Feature Engineering → SMOTE Oversampling  │
+  │                                                                │
+  │  ┌───────────┐  ┌──────────────┐  ┌──────────────────────┐   │
+  │  │ XGBoost   │  │Random Forest │  │ Logistic Regression  │   │
+  │  └─────┬─────┘  └──────┬───────┘  └──────────┬───────────┘   │
+  │        └───────────────┴──────────────────────┘               │
+  │                         │  Ensemble Vote                       │
+  │                         ▼                                     │
+  │              93% F1  |  Recall: 62% → 89%                     │
+  │                         │                                     │
+  │      FastAPI + Pydantic schemas — Dockerized                  │
+  │  /api/v1/health · /api/v1/predict · /api/v1/batch             │
+  └──────────────────────────────────────────────────────────────┘
+```
 
-- AI-powered system detecting fake/deceptive product reviews using NLP and anomaly detection.
-- Linguistic feature extraction covering sentiment patterns, review-length anomalies, and semantic inconsistencies.
-- End-to-end deployed web app with React frontend for real-time prediction.
+**Real stack:** `Python` · `FastAPI` · `Uvicorn` · `Pydantic` · `Docker` · `scikit-learn` / `XGBoost` / `joblib`
+
+- Clean production layering: `app/api/v1/endpoints` for health/predict/batch, `app/schemas` for Pydantic request/response contracts, `ml_pipeline/` + `artifacts/` kept separate from the serving layer.
+- Ensemble of **XGBoost + Random Forest + Logistic Regression** on a heavily imbalanced dataset (fraud rate <1%), achieving **93% F1-score**.
+- SMOTE oversampling + velocity/behavioural feature engineering pushed minority-class recall from **~62% → ~89%**.
+- Ships with a `Dockerfile` for one-command containerized deploys, plus full OpenAPI docs at `/docs`.
+
+</details>
+
+<details>
+<summary><b>🕵️ Sentinel AI — Review Anomaly Engine</b></summary>
+<br/>
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │               SENTINEL AI — REVIEW ANOMALY ENGINE             │
+  │                                                                │
+  │  Review Text ──► TF-IDF Vectorizer ──► SVM Classifier         │
+  │                          │                                     │
+  │                          ▼                                     │
+  │           { is_anomaly, anomaly_score, verdict }               │
+  │                          │                                     │
+  │        FastAPI  /api/v1/analyze  ── Dockerized                │
+  │                          │                                     │
+  │      React 19 + Three.js 3D dashboard (live verdict view)     │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+**Real stack:** `FastAPI` · `scikit-learn (SVM + TF-IDF)` · `Joblib` · `Pydantic` (backend) — `React 19` · `Vite` · `Tailwind` · `Three.js` · `Framer Motion` (frontend)
+
+- Hybrid detection engine — an SVM classifier over TF-IDF features, blended with rule-based checks — flags deceptive/fake reviews in real time.
+- Ships an actual JSON verdict: `{"is_anomaly": true, "anomaly_score": 0.99, "verdict": "Deceptive Content Detected"}`.
+- The frontend isn't just a form — it renders results through a **Three.js 3D visualization layer**, not a flat table.
+- Fully Dockerized backend with a modular `ml-engine/` (train/preprocess/predict split from the API layer).
+
+</details>
+
+<details>
+<summary><b>🎭 Cortex — Hybrid Mood Intelligence Engine</b></summary>
+<br/>
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │          CORTEX — HYBRID MOOD INTELLIGENCE ENGINE              │
+  │                                                                │
+  │  User message                                                 │
+  │       │                                                       │
+  │       ├──► Supervised (TF-IDF + LogReg)  ──► Emotion           │
+  │       ├──► Unsupervised (K-Means)        ──► Topic Cluster     │
+  │       │                                                       │
+  │       ▼                                                       │
+  │  Reinforcement Learning Agent (Q-table)                        │
+  │  state = Emotion + Cluster                                     │
+  │  action ∈ {motivate, advice, distract, deep}                   │
+  │       │                                                       │
+  │       ▼                                                       │
+  │  Gemini AI ──► generates response in the chosen strategy       │
+  │       │                                                       │
+  │       ▼                                                       │
+  │  User feedback ──► reward ──► updates Q-table (learns per-user)│
+  │                                                                │
+  │  Shipped as: FastAPI + React/Vite · Dockerized · CI/CD via     │
+  │  GitHub Actions · pre-commit hooks · health endpoints          │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+**Real stack:** `FastAPI` · `Gemini AI` · `scikit-learn (LogReg + K-Means)` · `Q-learning` (backend) — `React` · `TypeScript` · `Vite` (frontend) — `Docker` · `GitHub Actions` · `pre-commit`
+
+- Four ML paradigms in one working pipeline: **generative** (Gemini) for language, **supervised** (TF-IDF + Logistic Regression) for fast emotion classification, **unsupervised** (K-Means) for topic clustering, and **reinforcement learning** (Q-learning) to pick the response strategy.
+- The RL agent literally personalizes over time — a 👍/👎 in the UI becomes a reward signal that updates the per-user Q-table.
+- Went from a documented backend prototype straight to a Dockerized, CI/CD-wired full-stack app in about 24 hours between commits.
 
 </details>
 
 <br/>
 
-## 🔴 Live From GitHub Right Now
+## ⚡ More From The Lab
 
-<sub>Not on the résumé — pulled straight from your live repo list while building this file. Genuinely public, genuinely yours, on-topic for RAG/NLP. Delete this section if you'd rather keep the README 1:1 with the CV.</sub>
+<sub>Not on the résumé — pulled live from `github.com/akashka005?tab=repositories`. Real repos, real READMEs, badges refresh automatically.</sub>
 
-<div align="center">
+<br/>
 
-### 📚 Tamilfact
+**📊 [Tamilfact](https://github.com/akashka005/Tamilfact)** — `Python`
+<br/>
+<img src="https://img.shields.io/github/stars/akashka005/Tamilfact?style=flat-square&color=8a2be2&logo=github&logoColor=white&labelColor=0d1117&label=stars" /> <img src="https://img.shields.io/github/last-commit/akashka005/Tamilfact?style=flat-square&color=a78bfa&logo=github&logoColor=white&labelColor=0d1117&label=updated" /> <img src="https://img.shields.io/badge/2.36M-claims-302b63?style=flat-square&labelColor=0d1117" />
+<br/>
+A large-scale structured Tamil factual-claims dataset — 2.36M claims — built for NLP, RAG, Knowledge Graph, and Fact Verification work. `#machine-learning` `#foundation-models` `#llm`
 
-<img src="https://img.shields.io/github/stars/akashka005/Tamilfact?style=for-the-badge&color=8a2be2&logo=github&logoColor=white&labelColor=0d1117&label=Stars" />
-<img src="https://img.shields.io/github/languages/top/akashka005/Tamilfact?style=for-the-badge&color=a78bfa&logoColor=white&labelColor=0d1117&label=Language" />
-<img src="https://img.shields.io/github/repo-size/akashka005/Tamilfact?style=for-the-badge&color=302b63&logoColor=white&labelColor=0d1117&label=Repo%20Size" />
-<img src="https://img.shields.io/github/last-commit/akashka005/Tamilfact?style=for-the-badge&color=8a2be2&logo=github&logoColor=white&labelColor=0d1117&label=Last%20Commit" />
+<br/>
 
-</div>
+**🎨 [Lumina](https://github.com/akashka005/Lumina) — CycleGAN Style Transfer** — `PyTorch` `FastAPI` `React 19`
+<br/>
+<img src="https://img.shields.io/github/last-commit/akashka005/Lumina?style=flat-square&color=a78bfa&logo=github&logoColor=white&labelColor=0d1117&label=updated" /> <img src="https://img.shields.io/github/languages/top/akashka005/Lumina?style=flat-square&color=302b63&logoColor=white&labelColor=0d1117&label=top+language" />
+<br/>
+Upload a photo, get it repainted in the style of Monet, Van Gogh, Ukiyo-e, or Cézanne — four pretrained CycleGAN generators served through a GPU-accelerated FastAPI endpoint, with a drag-and-drop React 19 frontend.
 
-A large-scale structured Tamil factual-claims dataset — **2.36M claims** — built for NLP, RAG, Knowledge Graph, and Fact Verification workloads. It's directly adjacent to the RAG/retrieval work in MNEMO and Krishi AI, and arguably resume-worthy on its own if you keep building on it.
+<br/>
+
+**🧮 [neetcode-gpt](https://github.com/akashka005/neetcode-gpt) — A GPT Built From Scratch** — `PyTorch` `Python`
+<br/>
+<img src="https://img.shields.io/github/last-commit/akashka005/neetcode-gpt?style=flat-square&color=a78bfa&logo=github&logoColor=white&labelColor=0d1117&label=updated" />
+<br/>
+Self-attention → multi-head attention → transformer blocks → a working GPT, hand-built module by module: BPE tokenizer, RMSNorm, KV-cache, grouped-query attention — no shortcuts, no `import transformers`.
+
+<br/>
+
+**🎓 [CampusMate AI](https://github.com/akashka005/campus-mate) — "Midnight Luxe" Academic Cockpit** — `FastAPI` `Groq + Llama-3` `ChromaDB` `React 19`
+<br/>
+<img src="https://img.shields.io/github/last-commit/akashka005/campus-mate?style=flat-square&color=a78bfa&logo=github&logoColor=white&labelColor=0d1117&label=updated" />
+<br/>
+Chat with your own lecture PDFs through RAG over ChromaDB, get Groq-speed answers with rendered LaTeX/code, plus a built-in resume critique → strategy-chat feature.
+
+<br/>
+
+**📄 [AI Resume Scanner & Interview Coach](https://github.com/akashka005/Ai-resume-scanner)** — `FastAPI` `Groq` `PyMuPDF` `React`
+<br/>
+<img src="https://img.shields.io/github/last-commit/akashka005/Ai-resume-scanner?style=flat-square&color=a78bfa&logo=github&logoColor=white&labelColor=0d1117&label=updated" />
+<br/>
+Parses your resume (PyMuPDF), scores it against a target role like an ATS would, flags missing keywords, then runs an AI-generated mock interview with live feedback on your answers.
+
+<br/>
+
+**🍔 [LPU SmartFood AI](https://github.com/akashka005/food-bot)** — `Next.js 15` `Turborepo` `Prisma` `pgvector`
+<br/>
+<img src="https://img.shields.io/github/last-commit/akashka005/food-bot?style=flat-square&color=a78bfa&logo=github&logoColor=white&labelColor=0d1117&label=updated" />
+<br/>
+A full campus food-ordering monorepo: a WhatsApp bot that parses natural-language orders via Groq, a pgvector-backed RAG recommendation engine, a vendor Kanban portal, and an RBAC super-admin console — 8 workspace packages deep.
 
 <br/>
 
@@ -306,7 +403,7 @@ A large-scale structured Tamil factual-claims dataset — **2.36M claims** — b
 | 🥈 **Adobe India Hackathon** | Round 2 Qualifier — national applicant pool, rapid prototyping under pressure | Aug 2025 |
 | 🎖️ **Communication Skills Workshop** | **1st Place**, 94% score — trophy for articulation & structured reasoning | Mar 2025 |
 | 🔟 **Code-A-Haunt Hackathon** | **Top 10 Finalist** — innovative solution under strict time constraints | Jan 2024 |
-| 💻 **LeetCode** | Active grinder — medium/hard DSA, algorithms & system design focus | Ongoing |
+| 💻 **LeetCode / NeetCode** | Active grinder — medium/hard DSA, algorithms, system design + a from-scratch GPT | Ongoing |
 
 </div>
 
