@@ -17,13 +17,11 @@
 
 <br/><br/>
 
-<!-- LIVE PULSE — every number below is fetched from the GitHub API at render time, not typed in by hand -->
 <img src="https://img.shields.io/github/followers/akashka005?label=Followers&style=for-the-badge&color=8a2be2&logo=github&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakashka005&label=Following&query=following&color=8a2be2&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakashka005&label=Public%20Repos&query=public_repos&color=8a2be2&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakashka005&label=Status&query=%22Focusing%22&color=a78bfa&style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" />
 
-<sub>↑ live counters — pull straight from the GitHub API every time this page renders, so they never go stale</sub>
 
 </div>
 
@@ -48,7 +46,7 @@
 │  name       : "Akash K A"                                       │
 │  role       : "Final-year B.Tech CSE (AI/ML) Student"          │
 │  university : "Lovely Professional University, Punjab, India"   │
-│  cgpa       : 6.9  |  graduation: May 2027                      │
+│  graduation : "May 2027"                      
 │  focus      : ["RAG Systems", "Graph AI", "Reinforcement       │
 │                Learning", "Multi-Agent AI", "Anomaly Detection"]│
 │  building   : "MNEMO — Cognitive Knowledge Engine (Neo4j) 🧠"   │
